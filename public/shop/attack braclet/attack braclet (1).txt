@@ -1,0 +1,12 @@
+<div class="origin-part box-sizing"><div class="detailmodule_html"><div class="detail-desc-decorate-richtext"><p>
+	&nbsp;
+</p>
+<p style="text-align: center;">
+	&nbsp;
+</p>
+<p style="text-align: center;">
+	<img alt="aeProduct.getSubject()" src="https://ae01.alicdn.com/kf/HTB1RAqxRVXXXXbVXXXXq6xXFXXXY.jpg"><img alt="aeProduct.getSubject()" src="https://ae01.alicdn.com/kf/HTB1ay1lRVXXXXaoXFXXq6xXFXXXZ.jpg"><img alt="aeProduct.getSubject()" src="https://ae01.alicdn.com/kf/HTB17QqqRVXXXXc3XpXXq6xXFXXX9.jpg"><img alt="aeProduct.getSubject()" src="https://ae01.alicdn.com/kf/HTB1Vtt.RVXXXXalXVXXq6xXFXXX1.jpg"><img alt="aeProduct.getSubject()" src="https://ae01.alicdn.com/kf/HTB1i15qRVXXXXcbXpXXq6xXFXXXx.jpg"><img alt="aeProduct.getSubject()" src="https://ae01.alicdn.com/kf/HTB1OS5CRVXXXXaFXXXXq6xXFXXXS.jpg"><img alt="aeProduct.getSubject()" src="https://ae01.alicdn.com/kf/HTB1Du5yRVXXXXc9XXXXq6xXFXXX4.jpg"><img alt="aeProduct.getSubject()" src="https://ae01.alicdn.com/kf/HTB1PGugRVXXXXbLXFXXq6xXFXXXk.jpg">
+</p></div></div>
+
+<script>window.adminAccountId=228231040;</script>
+</div>
