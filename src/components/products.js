@@ -22,8 +22,6 @@ export default class Products extends Component {
                                 <button >ADD TO CART</button>
                             </div>
                             </div>
-                            
-                        
                         </div>
                     </li>
                       
