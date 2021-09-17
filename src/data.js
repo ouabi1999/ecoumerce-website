@@ -63,9 +63,6 @@
          price:19 +" $",
          availableSizes:["XL", "XXL"]
     },
-        
-    
-     
-    
+          
 ]
 export default products
