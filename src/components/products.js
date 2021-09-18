@@ -16,7 +16,7 @@ export default class Products extends Component {
                             <p>{items.title}</p>
                             <div className="product-price">
                                 <div>
-                                    {items.price}
+                                    {items.price} $
                                 </div>
                                 <div className="buttonprimary">
                                 <button >ADD TO CART</button>
