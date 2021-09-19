@@ -32,14 +32,10 @@ export default class App extends React.Component {
           :a.id < b.id
           ? 1
           : - 1
-
         )
-
         )}))
   }
-
-
-
+  
   filterProducts = (event) => {
     if(event.target.value === ""){
       this.setState({
