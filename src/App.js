@@ -20,7 +20,7 @@ export default class App extends React.Component {
     const sort = event.target.value;
       this.setState((state) =>({
         sort:sort,
-        products:state.products.slice().sort((a,b) =>(
+        products:state.products.sort((a,b) =>(
           sort ==="lowest"
           ? a.price > b.price
             ?1
